@@ -42,37 +42,38 @@ profiles:
 
 
 education:
-  - area: MSc Computer Technology
-    institution: Zhejiang Gongshang University
+  - area: 硕士
+    institution: 浙江工商大学
     date_start: 2023-09-01
     date_end: 2026-06-30
-    gpa: 3.55/4.0
+    gpa: 3.55/5.0
     summary: |
-      Research Focus: Knowledge Graphs and Artificial Intelligence Applications in Environmental Engineering
+      研究方向：知识图谱与人工智能
 
-      Main courses:
-      - Software Theory and Engineering
-      - Data Science and Engineering
-      - Computer Theory
-      - Advanced Computer Architecture
-      - Advanced Artificial Intelligence
-      - Embedded System Engineering
+      主修课程：
+      - 软件理论与工程
+      - 数据科学与工程
+      - 计算理论
+      - 高级计算机体系结构
+      - 高级人工智能
+      - 嵌入式系统工程
 
-  - area: BSc Computer Science and Technology
-    institution: Henan Polytechnic University
+  - area: 本科
+    institution: 河南理工大学
     date_start: 2019-09-01
     date_end: 2023-06-30
     gpa: 3.05/4.0
     summary: |
-      Main courses:
-      - Computer Networks
-      - Computer Organization and Principles
-      - Deep Learning
-      - Data Structures
-      - Operating Systems
-      - Software Engineering
-      - Compiler Principles
-      - Analog and Digital Circuits
+      主修课程：
+      - 计算机网络
+      - 计算机组成原理
+      - 深度学习
+      - 数据结构
+      - 操作系统
+      - 软件工程
+      - 编译原理
+      - 模拟与数字电路
+
 
 work:
   - position: 后端开发
@@ -213,4 +214,7 @@ awards:
 
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+我是浙江工商大学计算机技术专业硕士研究生，研究方向为知识图谱与人工智能。本科毕业于河南理工大学计算机科学与技术专业，具备扎实的算法与工程实现能力。
+在科研方面，关注大语言模型（LLM）与知识图谱融合技术，探索多特征融合在知识表示与语义检索中的应用，第一作者论文《Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding》已被 IEEE Big Data 2025 录用。  
+在工程实践中，熟悉 Spring Boot、Redis、RabbitMQ、Docker 等后端技术体系，具备分布式与微服务项目的开发经验，独立设计并实现了基于 LLM 的智能知识库系统。
+我热衷于将人工智能与行业应用结合，致力于构建高效、可信的数据智能系统。
