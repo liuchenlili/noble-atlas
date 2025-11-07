@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘琛琛
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chen chen Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chen chen
+last_name: Liu
 
 # Pronouns (optional)
-pronouns: she/her
+#pronouns: he/him
 
 # Status emoji
 status:
@@ -20,27 +20,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Third-Year Master’s Student in Knowledge Graph 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 浙江工商大学
+    url: https://www.zjgsu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '23020100082@pop.zjgsu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/BuildLore
+  - icon: custom/bilibili
+    url: https://space.bilibili.com/85472209
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/liuchenlili
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+
 
 education:
   - area: PhD Artificial Intelligence
