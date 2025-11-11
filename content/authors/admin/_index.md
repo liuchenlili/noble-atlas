@@ -182,35 +182,41 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: “华为杯”第二十一届中国研究生数学建模竞赛 全国二等奖
+  - title: Huawei Cup – 21st China Postgraduate Mathematical Contest in Modeling, National Second Prize
     date: '2024-11-01'
-    awarder: 中国研究生数学建模竞赛组委会
+    awarder: China Postgraduate Mathematical Modeling Competition Committee
     icon: mdi/math-compass
     summary: |
-      获得“华为杯”第二十一届中国研究生数学建模竞赛全国二等奖，主要研究方向包括模型设计、优化算法及多源数据融合分析。
+      Awarded the National Second Prize in the 21st “Huawei Cup” China Postgraduate Mathematical Contest in Modeling. 
+      Our team’s research focused on highway video analysis for intelligent traffic management — determining whether emergency lanes should be activated based on real-time conditions. 
+      I was primarily responsible for programming, data preprocessing, and model development, implementing machine learning algorithms to classify traffic flow patterns. 
+      Through iterative optimization and close collaboration with teammates, we successfully built an efficient decision-support model for emergency lane activation.
 
-  - title: PAT 甲级认证
+  - title: PAT Advanced Level Certification
     date: '2022-08-01'
-    awarder: 浙江大学计算机程序设计能力测试平台
+    awarder: Zhejiang University Programming Ability Test Platform
     icon: mdi/certificate
     summary: |
-      通过 2022 年夏季 PAT 甲级考试，掌握算法设计、数据结构与复杂度优化能力。
+      Passed the PAT Advanced Level Examination (Summer 2022), demonstrating strong abilities in algorithm design, data structure implementation, and computational complexity optimization.
 
-  - title: Kaggle Competition — MAP Charting Student Math Misunderstandings 铜牌
+  - title: Kaggle Competition — MAP Charting Student Math Misunderstandings, Bronze Medal
     url: https://www.kaggle.com/competitions/charting-student-math-misunderstandings
     date: '2023-05-01'
     awarder: Kaggle
     icon: brands/kaggle
     summary: |
-      在 Kaggle 教育数据竞赛中获得铜牌，主要任务为数学误解建模与预测。使用深度学习与知识图谱融合方法优化模型表现。
+      Won a Bronze Medal in the Kaggle competition “MAP: Charting Student Math Misunderstandings.” 
+      The project focused on modeling and predicting student misconceptions in mathematics. 
+      Utilized deep learning and knowledge graph fusion techniques to enhance model performance and interpretability.
 
   - title: Multi-Feature Fusion Strategies for Enhancing Knowledge Graph Embedding
     date: '2025-01-01'
     awarder: IEEE Big Data 2025 (CCF-C)
     icon: brands/ieee
     summary: |
-      第一作者论文被 IEEE Big Data 2025 录用，研究方向为知识图谱与多特征融合策略。论文提出多模态特征融合机制以提升嵌入质量。
-      IEEE Member, Institute of Electrical and Electronics Engineers.
+      First-author paper accepted by IEEE Big Data 2025, focusing on knowledge graph embedding and multi-feature fusion strategies. 
+      Proposed a multimodal feature integration mechanism to improve embedding quality and representation learning. 
+
 
 ---
 
